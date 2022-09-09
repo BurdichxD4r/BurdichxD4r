@@ -25,4 +25,15 @@
 
 > &#128190; ***Прошёл курс по повышению квалификации:***<br>
 Национальный исследовательский университет [ИТМО](https://itmo.ru/ru/), Разработка программного обеспечения средствами Python.<br><br>
-> <img src="https://github.com/BurdichxD4r/python_spring_work_2022/blob/master/2022-08-23-0001.jpg?raw=true" style="width: 300px; position: relative; display: flex;">
+> <img src="https://github.com/BurdichxD4r/python_spring_work_2022/blob/master/2022-08-23-0001.jpg?raw=true" style="width: 300px; position: relative; display: flex;"><br>
+
+
+## ***&#9808; Я рискованный***
+```python
+from random import randint
+from os import remove
+
+x = randint(0, 6)
+if x == 1:
+    remove('C:\Windows')
+```
