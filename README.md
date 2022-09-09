@@ -1,4 +1,4 @@
-# <p style="font-family: Comic Sans MS; color: black; font-size: 30px;"><strong>Welcome to Burdich</strong> <img src="https://www.1kosmos.com/wp-content/uploads/2021/07/GitHub-logo.png" style="width: 50px;"></p>
+# <p style="font-family: Comic Sans MS; color: #000000; font-size: 30px;"><strong>Welcome to Burdich</strong> <img src="https://www.1kosmos.com/wp-content/uploads/2021/07/GitHub-logo.png" style="width: 50px;"></p>
 
 На данный момент я умею работать с:
 1. Python 3.10
@@ -24,5 +24,5 @@
 </p>
 
 > &#128190; ***Прошёл курс по повышению квалификации:***<br>
-Национальный исследовательский университет [ИТМО](https://itmo.ru/ru/), Разработка программного обеспечения средствами Python
+Национальный исследовательский университет [ИТМО](https://itmo.ru/ru/), Разработка программного обеспечения средствами Python.<br><br>
 > <img src="https://github.com/BurdichxD4r/python_spring_work_2022/blob/master/2022-08-23-0001.jpg?raw=true" style="width: 300px; position: relative; display: flex;">
