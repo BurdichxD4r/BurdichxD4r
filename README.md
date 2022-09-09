@@ -1,3 +1,5 @@
+# <p style="font-family: Comic Sans MS; color: black; font-size: 30px;"><strong>Welcome to Burdich</strong> <img src="https://www.1kosmos.com/wp-content/uploads/2021/07/GitHub-logo.png" style="width: 50px;"></p>
+
 На данный момент я умею работать с:
 1. Python 3.10
 2. PostgreSQL
