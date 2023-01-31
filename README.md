@@ -2,11 +2,12 @@
 
 На данный момент я умею работать с:
 1. Python 3.10
-2. PostgreSQL
-3. GitHub
-4. HTML&CSS
-5. PHP
-6. JavaScript
+2. Linux
+3. Git
+4. C++
+5. Docker
+6. MySQL
+7. HTML&CSS
 
 
 &#128276; Сейчас в поисках работы с целью получения опыта и повышения квалификации.<br>
