@@ -1,10 +1,17 @@
 # <p><strong>Welcome to Burdich</strong> <img src="https://www.1kosmos.com/wp-content/uploads/2021/07/GitHub-logo.png" style="width: 50px;"></p>
 
 На данный момент я умею работать с:
+1. C/C++
+2. Qt 5.12/6.6
+3. Linux
+4. Git
+
+Также знаком с технологиями и сумею быстро в них адаптироваться:
 1. Python 3.10
-2. Linux
-3. Git
-4. C++
+2. PostgreSQL
+3. HTML/CSS
+4. Django
+5. Docker
 
 
 &#9989; Пишите мне в [<img src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" style="width: 15px;">**telegram**<img src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" style="width: 15px;">](https://t.me/BurdichxD4r)
@@ -24,11 +31,16 @@
 
 
 ## ***&#9808; Я рискованный***
-```python
-from random import randint
-from os import remove
-
-x = randint(0, 6)
-if x == 1:
-    remove('C:\Windows')
+```console
+burdich@RAB-SYSTEM:~$ cat script.sh
+#!/bin/bash
+random_number=$((1 + RANDOM % 6))
+if [ $random_number = 6 ]; then
+    echo rm -rf /
+else
+    echo "Повезло"
+fi
+burdich@RAB-SYSTEM:~$ sudo ./script.sh 
+[sudo] пароль для burdich: 
+Повезло
 ```
